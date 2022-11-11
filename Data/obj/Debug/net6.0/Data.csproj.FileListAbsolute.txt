@@ -1,0 +1,68 @@
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Data.dll
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.dll
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\alxac\OneDrive\Área de Trabalho\Act_digital_-_Desafio_de_Desenvolvedores_.net\Data\obj\Debug\net6.0\ref\Data.dll
+D:\CLIENTES\Data\bin\Debug\net6.0\Data.deps.json
+D:\CLIENTES\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\CLIENTES\Data\bin\Debug\net6.0\Data.dll
+D:\CLIENTES\Data\bin\Debug\net6.0\Data.pdb
+D:\CLIENTES\Data\bin\Debug\net6.0\Domain.dll
+D:\CLIENTES\Data\bin\Debug\net6.0\Domain.pdb
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.dll
+D:\CLIENTES\Data\obj\Debug\net6.0\refint\Data.dll
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.pdb
+D:\CLIENTES\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\CLIENTES\Data\obj\Debug\net6.0\ref\Data.dll
+E:\CLIENTES\Data\bin\Debug\net6.0\Data.deps.json
+E:\CLIENTES\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\CLIENTES\Data\bin\Debug\net6.0\Data.dll
+E:\CLIENTES\Data\bin\Debug\net6.0\Data.pdb
+E:\CLIENTES\Data\bin\Debug\net6.0\Domain.dll
+E:\CLIENTES\Data\bin\Debug\net6.0\Domain.pdb
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.dll
+E:\CLIENTES\Data\obj\Debug\net6.0\refint\Data.dll
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.pdb
+E:\CLIENTES\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\CLIENTES\Data\obj\Debug\net6.0\ref\Data.dll
+E:\PROJETO\Data\bin\Debug\net6.0\Data.deps.json
+E:\PROJETO\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+E:\PROJETO\Data\bin\Debug\net6.0\Data.dll
+E:\PROJETO\Data\bin\Debug\net6.0\Data.pdb
+E:\PROJETO\Data\bin\Debug\net6.0\Domain.dll
+E:\PROJETO\Data\bin\Debug\net6.0\Domain.pdb
+E:\PROJETO\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+E:\PROJETO\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJETO\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+E:\PROJETO\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+E:\PROJETO\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+E:\PROJETO\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+E:\PROJETO\Data\obj\Debug\net6.0\Data.dll
+E:\PROJETO\Data\obj\Debug\net6.0\refint\Data.dll
+E:\PROJETO\Data\obj\Debug\net6.0\Data.pdb
+E:\PROJETO\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+E:\PROJETO\Data\obj\Debug\net6.0\ref\Data.dll

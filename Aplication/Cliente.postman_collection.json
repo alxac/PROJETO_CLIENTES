@@ -1,0 +1,152 @@
+{
+	"id": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+	"name": "Cliente",
+	"description": "",
+	"order": [
+		"b71e3adc-69df-a060-c718-adb5339bb7ca",
+		"bf444e0a-f078-8e0d-1980-05bb479fdf77",
+		"a2d58cb4-45b2-b002-8cf3-483b555f9b86",
+		"f4bbb47e-9aad-0d48-4873-9412b09f66a7",
+		"1d5f512f-5b4e-910d-f280-0010bc2b7265"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1668072986798,
+	"owner": 3667174,
+	"public": false,
+	"requests": [
+		{
+			"id": "1d5f512f-5b4e-910d-f280-0010bc2b7265",
+			"headers": "",
+			"headerData": [],
+			"url": "https://localhost:7236/api/Clientes/12",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "DELETE",
+			"data": null,
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1668077712946,
+			"name": "Delete",
+			"description": "",
+			"collectionId": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+			"responses": []
+		},
+		{
+			"id": "a2d58cb4-45b2-b002-8cf3-483b555f9b86",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:7236/api/Clientes",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "PUT",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1668074686727,
+			"name": "Atualizando com endereço",
+			"description": "",
+			"collectionId": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+			"responses": [],
+			"rawModeData": "{\r\n    \"nome\": \"Cliente Teste 002\",\r\n    \"dtNascimento\": \"2022-11-10T09:38:01.186Z\",\r\n    \"status\": 0,\r\n    \"clienteEnderecos\": [\r\n        {\r\n            \"idCliente\": 12,\r\n            \"logradouro\": \"Rua de tal\",\r\n            \"cep\": \"99888000\",\r\n            \"uf\": \"UF\",\r\n            \"cidade\": \"Cidade\",\r\n            \"bairro\": \"Bairro\",\r\n            \"status\": 0\r\n        }\r\n    ],\r\n    \"id\": 12\r\n}"
+		},
+		{
+			"id": "b71e3adc-69df-a060-c718-adb5339bb7ca",
+			"headers": "",
+			"headerData": [],
+			"url": "https://localhost:7236/api/Clientes",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "GET",
+			"collectionId": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+			"data": null,
+			"dataMode": "params",
+			"name": "Listar",
+			"description": "Listando clientes e seus endereços",
+			"descriptionFormat": "html",
+			"time": 1668072992618,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {}
+		},
+		{
+			"id": "bf444e0a-f078-8e0d-1980-05bb479fdf77",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:7236/api/Clientes",
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1668073243098,
+			"name": "Inserindo",
+			"description": "",
+			"collectionId": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+			"responses": [],
+			"rawModeData": "{\r\n  \"nome\": \"Cliente Teste 001\",\r\n  \"dtNascimento\": \"2022-11-10T09:38:01.186Z\",\r\n  \"status\": 0,\r\n  \"clienteEnderecos\": [\r\n    {\r\n      \"logradouro\": \"Rua tal\",\r\n      \"cep\": \"99888000\",\r\n      \"uf\": \"UF\",\r\n      \"cidade\": \"Cidade\",\r\n      \"bairro\": \"Bairro\",\r\n      \"status\": 0\r\n    }\r\n  ]\r\n}"
+		},
+		{
+			"id": "f4bbb47e-9aad-0d48-4873-9412b09f66a7",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "https://localhost:7236/api/Clientes",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "PUT",
+			"collectionId": "0517264f-b0d0-c0a2-1e99-2b9227810555",
+			"data": [],
+			"dataMode": "raw",
+			"name": "Atualizando sem endereço",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1668074575451,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "{\r\n    \"nome\": \"Cliente Teste 002\",\r\n    \"dtNascimento\": \"2022-11-10T09:38:01.186Z\",\r\n    \"status\": 0,\r\n    \"id\": 12\r\n}"
+		}
+	]
+}
